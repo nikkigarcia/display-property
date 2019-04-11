@@ -23,3 +23,10 @@
     display: block;
     background-color: yellow;
 }
+.display-none{
+    display: none;
+}
+/* hides the class and makes it dissapear */
+.visibility-hidden{
+    visibility: hidden;
+}
