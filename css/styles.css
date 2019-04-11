@@ -1,0 +1,25 @@
+.main-nav{
+    background-color: gray;
+    height: 50px;
+}
+.logo{
+    height: 50px;
+
+}
+.right{
+    float: right;
+    padding: 10px;
+    margin: 10px;
+}
+.inline{
+    display: inline;
+    border: 1px solid red;
+}
+.inline-block{
+    display: inline-block;
+    background-color: yellow;
+}
+.block{
+    display: block;
+    background-color: yellow;
+}
